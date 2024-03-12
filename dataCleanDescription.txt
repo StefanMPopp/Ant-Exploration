@@ -1,0 +1,3 @@
+x,y,t,id,dt,s,v,disp,theta,alpha,nestDisp,gap,col,day,st,nu,idUni,stop,tBin,nestDispBin
+x coordinate,y coordinate,time since trial start,track ID,time between steps,step length,speed,displacement from start,heading angle in space,turn angle,distance to the nest,tracking gap or not,colony,experimental day,straightness,angle between heading and nest,ID unique between trials,stop or not,time bin,nest displacement bin
+mm,mm,s,int,s,mm,mm/s,mm,-180:180deg,-180:180deg,mm,bool,int,int,0:1,-180:180deg,int,bool,int,int
